@@ -5,4 +5,5 @@
 ## 多人協作和版本控制：git
 * [Git 是什麼？](01-git/what-is-git.md)
 * [GitHub 是什麼？](01-git/what-is-github.md)
+* [多人協作](01-git/contribute.md)
 
