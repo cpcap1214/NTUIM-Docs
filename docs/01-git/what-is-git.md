@@ -17,7 +17,7 @@ git 就是一個版本控制系統，藉由每次在存檔的時候輸入一串 
 git 的教學我這邊就不多做贅述，網路上已經有很多有關 git 的教學了，這邊推薦幾個我學習 git 用的教材。
 
 * [PAPAYA 的 git 介紹影片](https://youtu.be/FKXRiAiQFiY?si=PdhPudluymdW_Z7d)
-* [git 的語法介紹和實作](https://tai-da-zi-guan.gitbook.io/tai-da-zi-guan-docs/jian-jie)
+* [git 的語法介紹和實作](https://hackmd.io/@Heidi-Liu/note-git)
 * [GitHub 上讓你練習 contribute 的 repo](https://github.com/firstcontributions/first-contributions)
 
 理論上來說，只要你開始寫一個程式專案，或是你要跟別人協作，就會使用到 git。
