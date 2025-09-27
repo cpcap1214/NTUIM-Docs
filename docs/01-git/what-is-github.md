@@ -90,7 +90,9 @@ GitHub 的好處在於它可以讓你很方便地跟別人協作。
 
 ## 練習
 
-試試看在 GitHub 上面做第一個動作吧！你可以按[這個專案](https://github.com/cpcap1214/NTUIM-Docs) Star，我會很感謝你的～
+先[註冊一個帳號吧](https://github.com/)，你一定會在之後的大學生活用到的。
+
+然後試試看在 GitHub 上面做第一個動作吧！你可以按[這個專案](https://github.com/cpcap1214/NTUIM-Docs) Star，我會很感謝你的～
 
 ## 結語
 
